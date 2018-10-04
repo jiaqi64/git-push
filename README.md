@@ -1,2 +1,2 @@
 # git-push
-the boring class
+the interesting class
